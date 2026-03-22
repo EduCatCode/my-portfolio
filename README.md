@@ -4,7 +4,7 @@
 
 個人作品集網站，以靜態 HTML 架設並部署於 GitHub Pages，涵蓋學術研究、業界實戰、政府計畫主持及課程教學等多面向成果展示。
 
-**Live Demo：** https://educatcode.github.io
+**Live Demo：** [https://educatcode.github.io](https://educatcode.github.io/my-portfolio/)
 
 ---
 
@@ -112,7 +112,7 @@
 
 ```bash
 # 1. Clone 專案
-git clone https://github.com/EduCatCode/<repo-name>.git
+git clone https://github.com/EduCatCode/my-portfolio.git
 
 # 2. 直接在瀏覽器開啟
 open index.html
